@@ -1,0 +1,5 @@
+
+15296 15295 /bin/pwd 
+15298 15297 echo Hello 
+15297 15295 echo Hello There 
+15295 15294 /bin/ls F1 -l 

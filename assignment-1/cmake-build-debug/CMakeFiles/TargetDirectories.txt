@@ -1,0 +1,3 @@
+/Users/vonnegut/CLionProjects/csci4061/assignment-1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/vonnegut/CLionProjects/csci4061/assignment-1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vonnegut/CLionProjects/csci4061/assignment-1/cmake-build-debug/CMakeFiles/assignment_1.dir

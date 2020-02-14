@@ -1,0 +1,5 @@
+
+15440 15439 /bin/pwd 
+15442 15441 echo Hello 
+15441 15439 echo Hello There 
+15439 15438 /usr/bin/whoami 

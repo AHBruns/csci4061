@@ -1,0 +1,5 @@
+
+48139 48138 /bin/pwd
+48140 48138 echo Hello
+48141 48138 echo Hello There
+48142 48138 /bin/ls -l F1
